@@ -54,14 +54,23 @@ python app.py
 👉 Go to: http://127.0.0.1:5000/
 
 Example Input:
+
 Enter your health parameters in the form:
+
 Pregnancies: 2
+
 Glucose: 130
+
 Blood Pressure: 80
+
 Skin Thickness: 25
+
 Insulin: 100
+
 BMI: 28.5
+
 Diabetes Pedigree Function: 0.45
+
 Age: 35
 
 👉 Example Output:
@@ -70,19 +79,26 @@ Prediction: Diabetes Detected (78% probability)
 
 🔹 Prediction Result
 Tech Stack
+
 Frontend: HTML, CSS, JavaScript (Dashboard with animations & charts)
 Backend: Flask (Python)
+
 Machine Learning: RandomForestClassifier (Scikit-learn)
+
 Data Handling: Pandas, NumPy
 
 📌 Future Improvements
 Add support for more diseases (Heart Disease, Cancer, etc.)
+
 Deploy on Render / Heroku / Streamlit for public access
+
 Improve model with hyperparameter tuning
 
 👨‍💻 Author
 👤 Your Name:Sarthak R Shetty
+
 GitHub: @Sarthakrshetty
+
 LinkedIn:www.linkedin.com/in/sarthak-r-shetty22
 
 
